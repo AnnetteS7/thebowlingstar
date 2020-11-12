@@ -9,7 +9,13 @@ public class BowlingGameTest {
 
     }
 
-    public void LisaTestOne() {
+    @Test
+    public void lisaTestOne() {
+
+    }
+
+    @Test
+    public void lisaTestThree() {
 
     }
 
